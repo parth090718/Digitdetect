@@ -43,8 +43,8 @@ Submit a pull request.
 
 For any questions or feedback, feel free to reach out:
 
-Aditya bhandari
+Parth Bisht
 
-GitHub: Adi19488819
+GitHub: parth090718
 
-Email: adibhandari048@gmail.com.com
+Email: parthbisht59@gmail.com
