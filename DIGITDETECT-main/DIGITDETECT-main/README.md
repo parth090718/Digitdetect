@@ -17,7 +17,7 @@ Matplotlib (Data visualization)
 Pillow (PIL) (Image manipulation)
 ImageGrab (Screen capturing)
 Installation
-Clone the repository: git clone (https://github.com/Adi19488819/Digitdetect) cd DIGITDETECT
+Clone the repository: git clone (https://github.com/parth090718/Digitdetect) cd DIGITDETECT
 
 Install the required dependencies: pip install -r requirements.txt
 
